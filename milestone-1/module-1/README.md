@@ -100,7 +100,7 @@
     </tr>
 </table>
 
-### ::: 04 Fetch
+### ::: 05 Fetch
 
 <table>
     <tr>
@@ -122,5 +122,73 @@
     <tr>
         <td>Array</td>
         <td>add, remove, using spreed operator and filter</td>
+    </tr>
+</table>
+
+### ::: 06 Shortcuts
+
+<table>
+    <tr>
+        <th>Topic</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>Truthy</td>
+        <td>true, {}, [], 5, "Dhaka"</td>
+    </tr>
+    <tr>
+        <td>Falsy</td>
+        <td>"", 0, false, null, undefined</td>
+    </tr>
+</table>
+
+### ::: 07 Storage
+
+<table>
+    <tr>
+        <th>Topic</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>localStorage</td>
+        <td>setItem(), getItem(), clear(), removeItem()</td>
+    </tr>
+    <tr>
+        <td>sessionStorage</td>
+        <td>setItem(), getItem(), clear(), removeItem()</td>
+    </tr>
+</table>
+
+### ::: 07 Storage
+
+<table>
+    <tr>
+        <th>Topic</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>localStorage</td>
+        <td>setItem(), getItem(), clear(), removeItem()</td>
+    </tr>
+    <tr>
+        <td>sessionStorage</td>
+        <td>setItem(), getItem(), clear(), removeItem()</td>
+    </tr>
+</table>
+
+### ::: 08 Storage
+
+<table>
+    <tr>
+        <th>Topic</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>Object Notation</td>
+        <td>object.property</td>
+    </tr>
+    <tr>
+        <td>Bracket Notation</td>
+        <td>object-[property]</td>
     </tr>
 </table>

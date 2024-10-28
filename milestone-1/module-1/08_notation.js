@@ -6,7 +6,8 @@ const doctorInfo = {
   "hospital-name": "Kurmitola Hospital",
 };
 
-// #01 Bracket Notation
+// #01 Object Notation
 console.log(doctorInfo.userName);
 
-console.log(doctorInfo["hospital-name"]);
+// 02 Bracket Notation
+console.log(doctorInfo["hossspital-name"]);
